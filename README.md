@@ -2,10 +2,10 @@
 
 Nice to meet you! I'm a designer, curretly studying systems analysis and development and I live in Rio de Janeiro, Brazil.
 
-I'm interested by Front-end development, mobile development and UI/UX design, but I'm still exploring and learning about the tecnology market and its areas.
+I'm interested in Front-end development, mobile development and UI/UX design, but I'm still exploring and learning about the tecnology market and its areas.
 
 - 🔭 I’m currently working on ... My portfolio on Github
-- 🌱 I’m currently learning ... HTML, CSS and JS
+- 🌱 I’m currently learning ... JS and PHP
 - 😄 Pronouns: She/Her
 
 If you want to know more about me:
@@ -16,12 +16,12 @@ If you want to know more about me:
 
 ### Olá, Mundo! 👋
 
-Muito prazer! Sou designer e estou cursando análise e desenvolvimento de sistemas na unversidade veiga de almeida aqui no rio de janeiro.
+Muito prazer! Sou designer e estou cursando análise e desenvolvimento de sistemas na Unversidade Veiga de Almeida aqui no Rio de Janeiro.
 
-Me interesso por desenvolvimento front-end, mobile e UI/UX design, porém ainda estou explorando e aprendendo sobre o mercado de tecnologia e suas áreas.
+Me interesso em desenvolvimento front-end, mobile e UI/UX design, porém ainda estou explorando e aprendendo sobre o mercado de tecnologia e suas áreas.
 
 - 🔭 Estou trabalhando atualmente no ... Meu portfólio do GitHub.
-- 🌱 Atualmente estou aprendendo ... HTML, CSS and JS
+- 🌱 Atualmente estou aprendendo ... JS e PHP
 - 😄 Pronomes: Ela/Dela
 
 Se quiser saber mais sobre mim:
