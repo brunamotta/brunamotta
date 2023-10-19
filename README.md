@@ -10,7 +10,7 @@ I'm interested in Front-end development, mobile development and UI/UX design, bu
 
 If you want to know more about me:
 
-*[Instagram](http://instagram.com/brunamottap)*  |  *[LinkedIn](http://www.linkedin.com/in/brunamottap)*  |  *[Twitter](http://twitter.com/brunamottap)* | *[Skoob](https://www.skoob.com.br/usuario/401040-brunamotta)*
+*[Instagram](http://instagram.com/brunamottap)*  |  *[LinkedIn](http://www.linkedin.com/in/brunamottap)*  |  *[Twitter](http://twitter.com/brunamottap)* | *[Skoob](https://www.skoob.com.br/usuario/401040-brunamotta)* | *[Figma](https://figma.com/@brunamotta)*
 
 ---
 
@@ -26,4 +26,4 @@ Me interesso em desenvolvimento front-end, mobile e UI/UX design, porém ainda e
 
 Se quiser saber mais sobre mim:
 
-*[Instagram](http://instagram.com/brunamottap)*  |  *[LinkedIn](http://www.linkedin.com/in/brunamottap)*  |  *[Twitter](http://twitter.com/brunamottap)* | *[Skoob](https://www.skoob.com.br/usuario/401040-brunamotta)*
+*[Instagram](http://instagram.com/brunamottap)*  |  *[LinkedIn](http://www.linkedin.com/in/brunamottap)*  |  *[Twitter](http://twitter.com/brunamottap)* | *[Skoob](https://www.skoob.com.br/usuario/401040-brunamotta)* | *[Figma](https://figma.com/@brunamotta)*
