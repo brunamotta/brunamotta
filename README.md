@@ -5,7 +5,7 @@ Nice to meet you! I'm a designer, curretly studying systems analysis and develop
 I'm interested in Front-end development, mobile development and UI/UX design, but I'm still exploring and learning about the tecnology market and its areas.
 
 - 🔭 I’m currently working on my portfolio on Github
-- 🌱 I’m currently studying JavaScript
+- 🌱 I’m currently studying node.js
 - 😄 Pronouns: She/Her
 
 If you want to know more about me:
@@ -21,7 +21,7 @@ Muito prazer! Sou designer e estou cursando análise e desenvolvimento de sistem
 Me interesso em desenvolvimento front-end, mobile e UI/UX design, porém ainda estou explorando e aprendendo sobre o mercado de tecnologia e suas áreas.
 
 - 🔭 Estou trabalhando atualmente no meu portfólio do GitHub.
-- 🌱 Atualmente estou estudando JavaScript
+- 🌱 Atualmente estou estudando node.js
 - 😄 Pronomes: Ela/Dela
 
 Se quiser saber mais sobre mim:
