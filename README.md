@@ -8,12 +8,6 @@ I am from Rio de Janeiro, Brazil and I've been working for 2 years with **web de
 > >
 > Sou do Rio de Janeiro, atuo há 2 anos com **desenvolvimento web** com foco em **Front End** e **User Interface**. ultimamente estou estudando para aprimorar meus conhecimentos em **React.js**.
 
-## 👋🏼 Conect with me • Conecte-se comigo 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunamottap/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunamottap/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@brunamotta/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brunamottap@gmail.com)
-
 ## 🛠️ Skills • Habilidades 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -31,3 +25,9 @@ I am from Rio de Janeiro, Brazil and I've been working for 2 years with **web de
 
 ## 📊 GitHub Stats 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunamotta&layout=compact&theme=dracula&bg_color=000&)
+
+## 👋🏼 Conect with me • Conecte-se comigo 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunamottap/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunamottap/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@brunamotta/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brunamottap@gmail.com)
