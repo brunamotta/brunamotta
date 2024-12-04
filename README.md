@@ -3,10 +3,11 @@ Nice to meet you! My name is Bruna, I'm a designer transitioning careers and a g
 
 I am from Rio de Janeiro, Brazil and I've been working for 2 years with **web development** focusing on **Front End** and **User Interface**. Lately I'm studying to improve my knowledge in **React.js**.
 
-> #### [pt-BR] Bem-vindo(a)!
-> Muito prazer! Me chamo Bruna, sou designer em transição de carreira e formanda em análise e desenvolvimento de sistemas.
-> >
-> Sou do Rio de Janeiro, atuo há 2 anos com **desenvolvimento web** com foco em **Front End** e **User Interface**. Ultimamente estou estudando para aprimorar meus conhecimentos em **React.js**.
+#### [pt-BR] Bem-vindo(a)!
+ 
+Muito prazer! Me chamo Bruna, sou designer em transição de carreira e formanda em análise e desenvolvimento de sistemas.
+
+Sou do Rio de Janeiro, atuo há 2 anos com **desenvolvimento web** com foco em **Front End** e **User Interface**. Ultimamente estou estudando para aprimorar meus conhecimentos em **React.js**.
 
 ## 🛠️ Skills • Habilidades 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
