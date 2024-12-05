@@ -1,5 +1,5 @@
 # ✨ Welcome! ✨
-Nice to meet you! My name is Bruna, I'm a designer transitioning careers and a graduate in systems analysis and development.
+Nice to meet you! My name is Bruna, I'm a designer transitioning careers and a graduate in system's analysis and development.
 
 I am from Rio de Janeiro, Brazil and I've been working for 2 years with **web development** focusing on **Front End** and **User Interface**. Lately I'm studying to improve my knowledge in **React.js**.
 
