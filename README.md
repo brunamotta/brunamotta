@@ -1,11 +1,10 @@
 # ✨ Welcome! ✨
-Nice to meet you! My name is Bruna, I'm a designer and web developer from Rio de Janeiro, Brazil and I've been working for 2 years with **web development** focusing on **Front End** and **User Interface**.
-Lately I'm studying to improve my knowledge in **React.js**.
+Nice to meet you! My name is Bruna, I'm a designer and web developer from Rio de Janeiro, Brazil and I've been working for +2 years with **web development** focusing on **Front End** and **User Interface**. Currently I'm pursuing a postgraduate degree in **Full Stack Development and Cloud Computing**.
 
 #### [pt-BR] Bem-vindo(a)!
  
-Muito prazer! Me chamo Bruna, sou carioca, designer e desenvolvedora web, atuo há 2 anos com **desenvolvimento web** com foco em **Front End** e **User Interface**.
-Ultimamente estou estudando para aprimorar meus conhecimentos em **React.js**.
+Muito prazer! Me chamo Bruna, sou carioca, designer e desenvolvedora web, atuo há mais de 2 anos com **desenvolvimento web** focado em **Front End** e **User Interface**.
+Atualmente estou cursando pós graduação em **Desenvolvimento Full Stack e Cloud Computing**.
 
 ## 🛠️ Skills • Habilidades 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
