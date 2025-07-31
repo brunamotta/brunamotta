@@ -22,7 +22,7 @@ Atualmente estou cursando pós graduação em **Desenvolvimento Full Stack e Clo
 ![AWS](https://img.shields.io/badge/-AWS-141f2e?style=for-the-badge&logo=amazon-web-services&logoColor=f90)
 
 ## 📊 GitHub Stats 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunamotta&layout=compact&theme=dracula&bg_color=000&)
+![Top Langs](https://github-readme-stats-beta-plum-25.vercel.app/api/top-langs/?username=brunamotta&layout=compact&theme=dracula&bg_color=0d1117&title_color=fff)
 
 ## 👋🏼 Conect with me • Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunamottap/)
