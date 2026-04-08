@@ -3,7 +3,7 @@ Nice to meet you! My name is Bruna, I'm a designer and web developer from Rio de
 
 #### [pt-BR] Bem-vindo(a)!
  
-Muito prazer! Me chamo Bruna, sou carioca, designer e desenvolvedora web, atuo há mais de 2 anos com **desenvolvimento web** focado em **Front End** e **User Interface**.
+Muito prazer! Me chamo Bruna, sou carioca, designer e desenvolvedora web, atuo há mais de 2 anos com **desenvolvimento web** focado em **Front End** e na **Interface do Usuário**.
 Atualmente estou cursando pós graduação em **Desenvolvimento Full Stack e Cloud Computing**.
 
 ## 🛠️ Skills • Habilidades 
